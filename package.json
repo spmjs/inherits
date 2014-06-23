@@ -14,6 +14,10 @@
   ],
   "main": "./inherits.js",
   "browser": "./inherits_browser.js",
+  "spm": {
+    "main": "inherits_browser.js",
+    "tests": "test.js"
+  },
   "repository": "git://github.com/isaacs/inherits",
   "license": "ISC",
   "scripts": {

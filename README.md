@@ -1,3 +1,10 @@
+
+# inherits
+
+----
+
+[![spm package](http://spmjs.io/badge/inherits)](http://spmjs.io/package/inheritance)
+
 Browser-friendly inheritance fully compatible with standard node.js
 [inherits](http://nodejs.org/api/util.html#util_util_inherits_constructor_superconstructor).
 

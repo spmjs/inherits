@@ -3,7 +3,7 @@
 
 ----
 
-[![spm package](http://spmjs.io/badge/inherits)](http://spmjs.io/package/inheritance)
+[![spm package](http://spmjs.io/badge/inherits)](http://spmjs.io/package/inherits)
 
 Browser-friendly inheritance fully compatible with standard node.js
 [inherits](http://nodejs.org/api/util.html#util_util_inherits_constructor_superconstructor).
